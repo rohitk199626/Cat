@@ -40,3 +40,4 @@ public class Square
 		}
 	}
 }
+//Test
